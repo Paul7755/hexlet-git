@@ -1,2 +1,1 @@
-n еще одна нвоая строка
-Hello, Hexlet! How are you?
+no code no pain
