@@ -1,0 +1,1 @@
+строчка 1 в файле OneMoreFile2.txt
