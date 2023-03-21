@@ -11,3 +11,4 @@ new line
 experiment with amend
 experiment with amend
 новая строка
+новая новая строка
