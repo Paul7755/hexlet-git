@@ -9,3 +9,4 @@ new line
 добавил новую строку
 >>>>>>> parent of 84ce0e1 (добавили строку 1 в INFO.md)
 experiment with amend
+experiment with amend
